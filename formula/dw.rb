@@ -1,9 +1,9 @@
 class Dw < Formula
   desc "DataWeave CLI"
   homepage "https://github.com/mulesoft-labs/data-weave-cli"
-  url "https://github.com/mulesoft-labs/data-weave-cli/releases/download/v1.0.21/dw-1.0.21-macOS"
-  sha256 "212c973556898c460d7c609696a511e38499233015f4b9b21cb2414d0280f564"
-  version "2.5.1-20220530"
+  url "https://github.com/mulesoft-labs/data-weave-cli/releases/download/v1.0.22/dw-1.0.22-macOS"
+  sha256 "fe6ab3ae2221a7a0a67f517c5b68251d7a2b454dad8f74ef347b496f22f0c3e8"
+  version "2.5.1-20220624"
 
   def install
     prefix.install "bin"
