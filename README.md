@@ -2,7 +2,7 @@
 
 ## Usage
 ```
-brew tap mulesoft-labs/data-weave
+brew tap mulesoft/data-weave
 brew install dw
 ```
 
